@@ -2,6 +2,32 @@
   You can use import statements to include partials:
  */
 @import "imports/reset.css";
+/*
+  Vendors
+*/
+@import "imports/vendors/bootstrap.min.css";
+@import "imports/vendors/owl.carousel.css";
+@import "imports/vendors/owl.theme.css";
+@import "imports/vendors/jquery.kenburnsy.css";
+@import "imports/vendors/animate.css";
+@import "imports/vendors/pe-icon-7-stroke.css";
+@import "imports/vendors/iconmoon.css";
+@import "imports/vendors/et-line.css";
+@import "imports/vendors/ionicons.css";
+@import "imports/vendors/magnific-popup.css";
+@import "imports/vendors/tabs.css";
+@import "imports/vendors/tabstyles.css";
+@import "imports/vendors/responsive.css";
+
+/*
+  Loader
+ */
+@import "imports/loader-1.css";
+
+/*
+  Main
+ */
+@import "imports/main.css";
 
 
 /*
